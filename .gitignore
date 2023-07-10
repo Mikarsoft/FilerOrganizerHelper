@@ -3,3 +3,6 @@
 ################################################################################
 
 /FilerOrganizerHelper/bin/Debug/net6.0
+/FilerOrganizerHelper/obj
+/FilerOrganizerHelper/nupkg
+/.vs
